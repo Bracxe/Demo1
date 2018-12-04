@@ -1,1 +1,29 @@
+<<<<<<< HEAD
 /target/
+=======
+*.sqlite
+*.sqlite-journal
+.buildpath
+.project
+/.settings/
+.idea
+/nbproject/
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+.*.swp
+*~
+*.out
+*.log
+.vagrant
+data/files
+data/cache
+data/config.php
+*.bak
+/config.php
+!docker/var/wwww/app/config.php
+node_modules
+bower_components
+>>>>>>> branch 'master' of https://github.com/Bracxe/Demo1.git
